@@ -118,7 +118,6 @@ The script also computes information gain by hand for the first five features, a
 | `Breast Cancer/Cancer.py` | The whole analysis, in `# %%` cells |
 | `Breast Cancer/cancer.csv` | Wisconsin Diagnostic Breast Cancer data (569 rows) |
 | `Breast Cancer/plots/` | 25 charts: distributions, correlations, outliers, PCA, NCA, confusion matrices, ROC and learning curves |
-| `Breast Cancer/Calculations/` | Whiteboard notes on how the Local Outlier Factor is calculated |
 | `PRT565 Assessment 2 S382893.pdf` | The report |
 
 Data: UCI Machine Learning Repository, Breast Cancer Wisconsin (Diagnostic), Wolberg et al. (1995), via Kaggle.
